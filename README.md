@@ -6,3 +6,6 @@
 
 # Work flow:
 
+Data Collection -> Getting the word count of all possible words -> Selecting the top 1000 words as the features -> Generating a dataframe -> Running Naive bayes
+
+
