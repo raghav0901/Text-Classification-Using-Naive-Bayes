@@ -3,6 +3,8 @@
 #### This is a text classifier written from scratch using naive bayes, which takes in sentences and sorts them into the proper news sub category.<br>
 #### A naive bayes was written from scratch and its performance was compared to the already existing naive bayes in the sci kit learn.<br>
 
+# Link to the jupyter notebook:
+https://nbviewer.org/github/raghav0901/Text-Classification-Using-Naive-Bayes/blob/main/Naive_bayes.ipynb
 
 # Work flow:
 
